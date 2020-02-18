@@ -14,16 +14,16 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Medical Dialogue System
-[[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] Task-oriented Dialogue System for Automatic Diagnosis [[github](https://github.com/LiuQL2/MedicalChatbot)]
-[[Arxiv2017](https://arxiv.org/pdf/1709.02349.pdf)] A Deep Reinforcement Learning Chatbot
+- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] Task-oriented Dialogue System for Automatic Diagnosis [[github](https://github.com/LiuQL2/MedicalChatbot)]
+- [[Arxiv2017](https://arxiv.org/pdf/1709.02349.pdf)] A Deep Reinforcement Learning Chatbot
 
 
 
 ---
 ## Dialogue System
-[[Arxiv2018](https://arxiv.org/pdf/1703.01008.pdf)] End-to-End Task-Completion Neural Dialogue Systems [[github](https://github.com/MiuLab/TC-Bot)]
-[[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] A User Simulator for Task-Completion Dialogues [[github](https://github.com/MiuLab/TC-Bot)]
-[[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
+- [[Arxiv2018](https://arxiv.org/pdf/1703.01008.pdf)] End-to-End Task-Completion Neural Dialogue Systems [[github](https://github.com/MiuLab/TC-Bot)]
+- [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] A User Simulator for Task-Completion Dialogues [[github](https://github.com/MiuLab/TC-Bot)]
+- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
 
 
 

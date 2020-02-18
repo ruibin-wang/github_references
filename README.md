@@ -1,5 +1,5 @@
 # Dialogue-System-Paper-List
-A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at **Basic Algorithm**, **Commonsense & Logic**, **Dialogue System**, **Emotions & Personality**, **Graph Neural Network**, **Knowledge Graph**, **Machine Reading Comprehension(MRC)**, **Medical Dialogue System**, **Nadine**, **Neural Network**,**NLP**, **Top Conferences**.
+A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at **Basic Algorithm**,  **Commonsense & Logic**,  **Dialogue System**,  **Emotions & Personality**,  **Graph Neural Network**,  **Knowledge Graph**,  **Machine Reading Comprehension(MRC)**,  **Medical Dialogue System**,  **Nadine**,  **Neural Network**,  **NLP**,  **Top Conferences**.
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 

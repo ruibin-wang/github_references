@@ -24,10 +24,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv2017](https://arxiv.org/pdf/1709.02349.pdf)] [Montreal Institute for Learing Algorithms_Iulian V.Serban] A Deep Reinforcement Learning Chatbot
 - [[Arxiv2018](https://arxiv.org/pdf/1703.01008.pdf)] [Microsoft Research_Xiujun Li] End-to-End Task-Completion Neural Dialogue Systems [[github](https://github.com/MiuLab/TC-Bot)]
 - [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] [Microsoft Research_Xiujun Li] A User Simulator for Task-Completion Dialogues [[github](https://github.com/MiuLab/TC-Bot)]
-- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [<font color=>Peking University_Yiping Song] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
+- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [Peking University_Yiping Song] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
 
 <font color=orange>color=gray</font>
-- ![#1589F0](Fudan) `#1589F0`
+
 
 ```diff
 - red
@@ -36,9 +36,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 # gray
 
 ```
-```diff - red_fundan ```
+
+- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [```diff 
+- Peking University_Yiping Song
+```] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
 
 
+- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [```diff - Peking University_Yiping Song ```] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
 
 ---
 ## Basic Algorithm

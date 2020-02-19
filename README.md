@@ -3,7 +3,9 @@ A list of papers, libraries and datasets I recently read is collected for anyone
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
-
+---
+## Notebook
+- [[onenote](https://livebournemouthac-my.sharepoint.com/:o:/g/personal/s5219587_bournemouth_ac_uk/Eg9ZSrOWv-FDpeOsWX_qWYABTn_Rjpkem0Ih4OYRMdjdgQ)]
 
 ---
 ## Examples

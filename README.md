@@ -16,17 +16,17 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Medical Dialogue System
-- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] [Fudan_Qianlong Liu] Task-oriented Dialogue System for Automatic Diagnosis [[github](https://github.com/LiuQL2/MedicalChatbot)]
-- [[ACL2019](https://www.aclweb.org/anthology/D19-1508.pdf)] [Fudan_QinChen] Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph 
+- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] Task-oriented Dialogue System for Automatic Diagnosis [Fudan_Qianlong Liu] [[github](https://github.com/LiuQL2/MedicalChatbot)]
+- [[ACL2019](https://www.aclweb.org/anthology/D19-1508.pdf)] Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph [Fudan_QinChen]
 
 
 
 ---
 ## Dialogue System
-- [[Arxiv2017](https://arxiv.org/pdf/1709.02349.pdf)] [Montreal Institute for Learing Algorithms_Iulian V.Serban] A Deep Reinforcement Learning Chatbot
-- [[Arxiv2018](https://arxiv.org/pdf/1703.01008.pdf)] [Microsoft Research_Xiujun Li] End-to-End Task-Completion Neural Dialogue Systems [[github](https://github.com/MiuLab/TC-Bot)]
-- [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] [Microsoft Research_Xiujun Li] A User Simulator for Task-Completion Dialogues [[github](https://github.com/MiuLab/TC-Bot)]
-- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [Peking University_Yiping Song] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
+- [[Arxiv2017](https://arxiv.org/pdf/1709.02349.pdf)] A Deep Reinforcement Learning Chatbot [Montreal Institute for Learing Algorithms_Iulian V.Serban]
+- [[Arxiv2018](https://arxiv.org/pdf/1703.01008.pdf)] End-to-End Task-Completion Neural Dialogue Systems [Microsoft Research_Xiujun Li] [[github](https://github.com/MiuLab/TC-Bot)] 
+- [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] A User Simulator for Task-Completion Dialogues [Microsoft Research_Xiujun Li]  [[github](https://github.com/MiuLab/TC-Bot)]
+- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems [Peking University_Yiping Song] 
 
 
 ---

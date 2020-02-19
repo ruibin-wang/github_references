@@ -26,23 +26,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] [Microsoft Research_Xiujun Li] A User Simulator for Task-Completion Dialogues [[github](https://github.com/MiuLab/TC-Bot)]
 - [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [Peking University_Yiping Song] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
 
-<font color=orange>color=gray</font>
-
-
-```diff
-- red
-+ green
-! orange
-# gray
-
-```
-
-- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [```diff 
-- Peking University_Yiping Song
-```] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
-
-
-- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [```diff - Peking University_Yiping Song ```] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
+<span style="color:red;">这是比font标签更好的方式。可以试试。</span>
+- [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] [<span style="color:red;"> Peking University_Yiping Song </span>] Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
 
 ---
 ## Basic Algorithm

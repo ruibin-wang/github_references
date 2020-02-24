@@ -16,7 +16,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Medical Dialogue System
-- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] Task-oriented Dialogue System for Automatic Diagnosis [ *Fudan_Qianlong Liu* ] [[github](https://github.com/LiuQL2/MedicalChatbot)]  :memo:
+- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] **Task-oriented Dialogue System for Automatic Diagnosis** [ *Fudan_Qianlong Liu* ] [[github](https://github.com/LiuQL2/MedicalChatbot)]  :memo:
 - [[ACL2019](https://www.aclweb.org/anthology/D19-1508.pdf)] Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph [ *Fudan_QinChen* ] :memo: 
 - [[Journal2018](https://link.springer.com/content/pdf/10.1007/s10458-018-9396-x.pdf)] A dialogue-based approach for dealing with uncertain and conflicting information inmedical diagnosis [ *Autonomous Agents and Multi-Agent Systems* ] [ *Umeå University Sweden_Chunli Yan* ] :memo: 
 - [[Review2005](https://reader.elsevier.com/reader/sd/pii/S1532046405001413?token=0BF48E9DAEFB26349A1B005A52C333FB3252930AC99BBA7D58CB3471422849307F08764AC0D9034ACC7E86594E599C05)] Health dialog systems for patients and consumers [ *Journal of Biomedical Informatics* ] [ *Northeastern University_Timothy Bickmore* ]

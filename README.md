@@ -25,6 +25,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot. AI* ] [ *University of Southern California_Gale M. Lucas* ] 
 - [[Journal2016](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2500043)] **Smartphone-Based Conversational Agents and Responses to Questions About Mental Health, Interpersonal Violence, and Physical Health** [ *JAMA Intern Med* ] [ *Stanford University_Adam S. Miner, PsyD* ] 
 - [[Journal2017](https://www.nature.com/articles/srep42656.pdf)] **Virtual human as a new diagnostic tool, a proof of concept study in the field of major depressive disorders** [ *Scientific reports* ] [ *Stanford University_Philip, Pierre* ] 
+- [[Journal2016](https://pdfs.semanticscholar.org/8e6d/60c0b3311b6fdb4ab5e40c87c3bc7da45458.pdf)] **Inquire and Diagnose: Neural Symptom Checking Ensemble using Deep Reinforcement Learning** [ *Proceedings of NIPS Workshop on Deep Reinforcement Learning* ] [ *HTC Research_Kai-Fu Tang* ] 
 
 
 
@@ -36,7 +37,7 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Arxiv2018](https://arxiv.org/pdf/1703.01008.pdf)] **End-to-End Task-Completion Neural Dialogue Systems** [ *Microsoft Research_Xiujun Li* ] [[github](https://github.com/MiuLab/TC-Bot)] 
 - [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] **A User Simulator for Task-Completion Dialogues** [ *Microsoft Research_Xiujun Li* ]  [[github](https://github.com/MiuLab/TC-Bot)] :memo: 
 - [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] **Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems** [ *Peking University_Yiping Song* ] 
-- [[Journal2016](http://ebooks.iospress.nl/publication/44289)] **Hello Harlie: Enabling Speech Monitoring Through Chat-Bot Conversations** [ *Stud Health Technol Inform* ] [ *The Australian E-Health Research Centre_David IRELAND* ] 
+- [[Review2016](http://ebooks.iospress.nl/publication/44289)] **Hello Harlie: Enabling Speech Monitoring Through Chat-Bot Conversations** [ *Stud Health Technol Inform* ] [ *The Australian E-Health Research Centre_David IRELAND* ] 
 
 
 

@@ -27,6 +27,7 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Journal2017](https://www.nature.com/articles/srep42656.pdf)] **Virtual human as a new diagnostic tool, a proof of concept study in the field of major depressive disorders** [ *Scientific reports* ] [ *Stanford University_Philip, Pierre* ] 
 - [[Journal2016](https://pdfs.semanticscholar.org/8e6d/60c0b3311b6fdb4ab5e40c87c3bc7da45458.pdf)] **Inquire and Diagnose: Neural Symptom Checking Ensemble using Deep Reinforcement Learning** [ *Proceedings of NIPS Workshop on Deep Reinforcement Learning* ] [ *HTC Research_Kai-Fu Tang* ] 
 - [[Journal2016](https://www.researchgate.net/profile/Samy_Abu-Naser/publication/303676962_Expert_system_urination_problems_diagnosis/links/574c7a2008ae061b330020c1/Expert-system-urination-problems-diagnosis.pdf)] **Expert system urination problems diagnosis** [ *World Wide Journal of Multidisciplinary Research and Development* ] [ *Azhar University_Samy S. Abu Naser* ] 
+- [[Journal2016](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/423/31-05-2019-06.pdf?sequence=1&isAllowed=y)] **An Expert System for Mouth Problems in Infants and Children** [ *Journal of Multidisciplinary Engineering Science Studies* ] [ *Azhar University_Samy S. Abu Naser* ] 
 
 
 

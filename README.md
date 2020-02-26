@@ -26,7 +26,7 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Journal2016](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2500043)] **Smartphone-Based Conversational Agents and Responses to Questions About Mental Health, Interpersonal Violence, and Physical Health** [ *JAMA Intern Med* ] [ *Stanford University_Adam S. Miner, PsyD* ] 
 - [[Journal2017](https://www.nature.com/articles/srep42656.pdf)] **Virtual human as a new diagnostic tool, a proof of concept study in the field of major depressive disorders** [ *Scientific reports* ] [ *Stanford University_Philip, Pierre* ] 
 - [[Journal2016](https://pdfs.semanticscholar.org/8e6d/60c0b3311b6fdb4ab5e40c87c3bc7da45458.pdf)] **Inquire and Diagnose: Neural Symptom Checking Ensemble using Deep Reinforcement Learning** [ *Proceedings of NIPS Workshop on Deep Reinforcement Learning* ] [ *HTC Research_Kai-Fu Tang* ] 
-
+- [[Journal2016](https://www.researchgate.net/profile/Samy_Abu-Naser/publication/303676962_Expert_system_urination_problems_diagnosis/links/574c7a2008ae061b330020c1/Expert-system-urination-problems-diagnosis.pdf)] **Expert system urination problems diagnosis** [ *World Wide Journal of Multidisciplinary Research and Development* ] [ *Azhar University_Samy S. Abu Naser* ] 
 
 
 

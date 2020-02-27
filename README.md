@@ -28,8 +28,8 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[NIPS 2016](https://pdfs.semanticscholar.org/8e6d/60c0b3311b6fdb4ab5e40c87c3bc7da45458.pdf)] **Inquire and Diagnose: Neural Symptom Checking Ensemble using Deep Reinforcement Learning** [ *29th Conference on Neural Information Processing Systems* ] [ *HTC Research_Kai-Fu Tang* ] :memo:
 - [[Journal2016](https://www.researchgate.net/profile/Samy_Abu-Naser/publication/303676962_Expert_system_urination_problems_diagnosis/links/574c7a2008ae061b330020c1/Expert-system-urination-problems-diagnosis.pdf)] **Expert system urination problems diagnosis** [ *World Wide Journal of Multidisciplinary Research and Development* ] [ *Azhar University_Samy S. Abu Naser* ] 
 - [[Journal2016](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/423/31-05-2019-06.pdf?sequence=1&isAllowed=y)] **An Expert System for Mouth Problems in Infants and Children** [ *Journal of Multidisciplinary Engineering Science Studies* ] [ *Azhar University_Samy S. Abu Naser* ] 
-
-
+- [[(NeurIPS2018](https://papers.nips.cc/paper/7962-refuel-exploring-sparse-features-in-deep-reinforcement-learning-for-fast-disease-diagnosis.pdf)] **REFUEL: Exploring Sparse Features in Deep Reinforcement Learning for Fast Disease Diagnosis** [ *32nd Conference on Neural Information Processing Systems* ] [ *HTC Research_Yu-Shao Peng* ]
+- [[(Arxiv2018](https://arxiv.org/pdf/1811.10112.pdf)] **A model-based reinforcement learning approach for a rare disease diagnostic task** [ *CMAP, Ecole Polytechnique_Remi Besson* ]
 
 
 ---

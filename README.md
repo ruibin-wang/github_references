@@ -30,6 +30,8 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Journal2016](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/423/31-05-2019-06.pdf?sequence=1&isAllowed=y)] **An Expert System for Mouth Problems in Infants and Children** [ *Journal of Multidisciplinary Engineering Science Studies* ] [ *Azhar University_Samy S. Abu Naser* ] 
 - [[(NeurIPS2018](https://papers.nips.cc/paper/7962-refuel-exploring-sparse-features-in-deep-reinforcement-learning-for-fast-disease-diagnosis.pdf)] **REFUEL: Exploring Sparse Features in Deep Reinforcement Learning for Fast Disease Diagnosis** [ *32nd Conference on Neural Information Processing Systems* ] [ *HTC Research_Yu-Shao Peng* ]
 - [[(Arxiv2018](https://arxiv.org/pdf/1811.10112.pdf)] **A model-based reinforcement learning approach for a rare disease diagnostic task** [ *CMAP, Ecole Polytechnique_Remi Besson* ]
+- [[(AAAI2018](https://pdfs.semanticscholar.org/ca59/5004251da5f1fc568dbaf8f7420ba1030391.pdf?_ga=2.39455139.1441780456.1582819042-1651149435.1578003244)] **Context-Aware Symptom Checking for Disease Diagnosis Using Hierarchical Reinforcement Learning** [ *HTC Research & Healthcare_Hao-Cheng Kao* ]
+
 
 
 ---

@@ -5,7 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Notebook
-- [[onenote](https://livebournemouthac-my.sharepoint.com/:o:/g/personal/s5219587_bournemouth_ac_uk/Eg9ZSrOWv-FDpeOsWX_qWYABTn_Rjpkem0Ih4OYRMdjdgQ)]
+- [[onenote](https://livebournemouthac-my.sharepoint.com/:o:/g/personal/s5219587_bournemouth_ac_uk/Eg9ZSrOWv-FDpeOsWX_qWYABTn_Rjpkem0Ih4OYRMdjdgQ)]   [[onedrive](https://livebournemouthac-my.sharepoint.com/:f:/g/personal/s5219587_bournemouth_ac_uk/Ety6p4Z7aPpBp3_nx0M3HK4Bjtqj6SKlOoDgImcTT_P3IQ?e=B6eIvY)]
 
 ---
 ## Examples

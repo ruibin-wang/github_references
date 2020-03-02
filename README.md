@@ -16,7 +16,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Medical Dialogue System
-- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] **Task-oriented Dialogue System for Automatic Diagnosis** [ *Fudan_Qianlong Liu* ] [[github](https://github.com/LiuQL2/MedicalChatbot)]  :memo:
+- [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] **Task-oriented Dialogue System for Automatic Diagnosis** [ *Fudan_Qianlong Liu* ] [[github_Py](https://github.com/LiuQL2/MedicalChatbot)]  :memo:
 - [[ACL2019](https://www.aclweb.org/anthology/D19-1508.pdf)] **Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph** [ *Fudan_QinChen* ] :memo: 
 - [[Journal2018](https://link.springer.com/content/pdf/10.1007/s10458-018-9396-x.pdf)] **A dialogue-based approach for dealing with uncertain and conflicting information inmedical diagnosis** [ *Autonomous Agents and Multi-Agent Systems* ] [ *Umeå University Sweden_Chunli Yan* ] :memo: 
 - [[Review2005](https://reader.elsevier.com/reader/sd/pii/S1532046405001413?token=0BF48E9DAEFB26349A1B005A52C333FB3252930AC99BBA7D58CB3471422849307F08764AC0D9034ACC7E86594E599C05)] **Health dialog systems for patients and consumers** [ *Journal of Biomedical Informatics* ] [ *Northeastern University_Timothy Bickmore* ]
@@ -29,7 +29,7 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Journal2016](https://www.researchgate.net/profile/Samy_Abu-Naser/publication/303676962_Expert_system_urination_problems_diagnosis/links/574c7a2008ae061b330020c1/Expert-system-urination-problems-diagnosis.pdf)] **Expert system urination problems diagnosis** [ *World Wide Journal of Multidisciplinary Research and Development* ] [ *Azhar University_Samy S. Abu Naser* ] 
 - [[Journal2016](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/423/31-05-2019-06.pdf?sequence=1&isAllowed=y)] **An Expert System for Mouth Problems in Infants and Children** [ *Journal of Multidisciplinary Engineering Science Studies* ] [ *Azhar University_Samy S. Abu Naser* ] 
 - [[(NeurIPS2018](https://papers.nips.cc/paper/7962-refuel-exploring-sparse-features-in-deep-reinforcement-learning-for-fast-disease-diagnosis.pdf)] **REFUEL: Exploring Sparse Features in Deep Reinforcement Learning for Fast Disease Diagnosis** [ *32nd Conference on Neural Information Processing Systems* ] [ *HTC Research_Yu-Shao Peng* ]
-- [[(Arxiv2018](https://arxiv.org/pdf/1811.10112.pdf)] **A model-based reinforcement learning approach for a rare disease diagnostic task** [ *CMAP, Ecole Polytechnique_Remi Besson* ]
+- [[(Arxiv2018](https://arxiv.org/pdf/1811.10112.pdf)] **A model-based reinforcement learning approach for a rare disease diagnostic task** [ *CMAP, Ecole Polytechnique_Remi Besson* ] [[github_R](https://github.com/BessonRemi/Charade/blob/0704da5f3303ecc46ffb0c6ad6984b127001b122/README.md)] :memo:
 - [[(AAAI2018](https://pdfs.semanticscholar.org/ca59/5004251da5f1fc568dbaf8f7420ba1030391.pdf?_ga=2.39455139.1441780456.1582819042-1651149435.1578003244)] **Context-Aware Symptom Checking for Disease Diagnosis Using Hierarchical Reinforcement Learning** [ *HTC Research & Healthcare_Hao-Cheng Kao* ]
 
 

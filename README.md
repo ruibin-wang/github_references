@@ -41,7 +41,7 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] **A User Simulator for Task-Completion Dialogues** [ *Microsoft Research_Xiujun Li* ]  [[github_Py](https://github.com/MiuLab/TC-Bot)] :memo: 
 - [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] **Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems** [ *Peking University_Yiping Song* ] 
 - [[Review2016](http://ebooks.iospress.nl/publication/44289)] **Hello Harlie: Enabling Speech Monitoring Through Chat-Bot Conversations** [ *Stud Health Technol Inform* ] [ *The Australian E-Health Research Centre_David IRELAND* ] 
-- [[Arxiv2019](https://arxiv.org/pdf/1901.08149.pdf)] **TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents** [ *HuggingFace_Thomas Wolf* ]  [[github_Py](https://github.com/huggingface/pytorch-openai-transformer-lm)] 
+- [[ACL2019](https://arxiv.org/pdf/1901.08149.pdf)] **TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents** [ *HuggingFace_Thomas Wolf* ]  [[github_Py](https://github.com/huggingface/pytorch-openai-transformer-lm)] 
 
 
 ---
@@ -58,8 +58,8 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 
 ---
 ## Emotions & Personality
-- [[Arxiv2020](https://arxiv.org/pdf/2004.05388.pdf)] **You Impress Me: Dialogue Generation via Mutual Persona Perception** [ *Beihang_Microsofte_Fudan_Qian Liu* ]  [[github_Py](https://github.com/SivilTaram/Persona-Dialogue-Generation)] 
-- [[Arxiv2020](https://arxiv.org/pdf/2004.05388.pdf)] **Personalizing Dialogue Agents: I have a dog, do you have pets too?** [ *FacebookAI_Saizheng Zhang* ] 
+- [[ACL2020](https://arxiv.org/pdf/2004.05388.pdf)] **You Impress Me: Dialogue Generation via Mutual Persona Perception** [ *Beihang_Microsofte_Fudan_Qian Liu* ]  [[github_Py](https://github.com/SivilTaram/Persona-Dialogue-Generation)] 
+- [[Arxiv2018](https://arxiv.org/pdf/2004.05388.pdf)] **Personalizing Dialogue Agents: I have a dog, do you have pets too?** [ *FacebookAI_Saizheng Zhang* ] 
 
 
 

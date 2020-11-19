@@ -14,6 +14,32 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv](https://arxiv.org/pdf/1904.07850.pdf)] Objects as Points [[github](https://github.com/xingyizhou/CenterNet)] :star::fire:
 - [[CVPR2019](https://arxiv.org/pdf/1812.07003.pdf)] 3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans [[pytorch](https://github.com/Sekunde/3D-SIS)] :fire:
 
+
+---
+## 模型与论文paper题与地址
+* FastText:   [Bag of Tricks for Efﬁcient Text Classiﬁcation](https://arxiv.org/abs/1607.01759)
+* TextCNN：   [Convolutional Neural Networks for Sentence Classiﬁcation](https://arxiv.org/abs/1408.5882)
+* charCNN-kim：   [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
+* charCNN-zhang:  [Character-level Convolutional Networks for Text Classiﬁcation](https://arxiv.org/pdf/1509.01626.pdf)
+* TextRNN：   [Recurrent Neural Network for Text Classification with Multi-Task Learning](https://www.ijcai.org/Proceedings/16/Papers/408.pdf)
+* RCNN：      [Recurrent Convolutional Neural Networks for Text Classification](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Recurrent%20Convolutional%20Neural%20Networks%20for%20Text%20Classification.pdf)
+* DCNN:       [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/abs/1404.2188)
+* DPCNN:      [Deep Pyramid Convolutional Neural Networks for Text Categorization](https://www.aclweb.org/anthology/P17-1052)
+* VDCNN:      [Very Deep Convolutional Networks](https://www.aclweb.org/anthology/E17-1104)
+* CRNN:        [A C-LSTM Neural Network for Text Classification](https://arxiv.org/abs/1511.08630)
+* DeepMoji:    [Using millions of emojio ccurrences to learn any-domain represent ations for detecting sentiment, emotion and sarcasm](https://arxiv.org/abs/1708.00524)
+* SelfAttention: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* HAN: [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
+* CapsuleNet: [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
+* Transformer(encode or decode): [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* Bert:                  [BERT: Pre-trainingofDeepBidirectionalTransformersfor LanguageUnderstanding]()
+* Xlnet:                 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+* Albert:                [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
+* RoBERTa:               [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+* ELECTRA:               [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB)
+* TextGCN:               [Graph Convolutional Networks for Text Classification](https://arxiv.org/abs/1809.05679)
+
+
 ---
 ## Medical Dialogue System
 - [[ACL2018](https://www.aclweb.org/anthology/P18-2033.pdf)] **Task-oriented Dialogue System for Automatic Diagnosis** [ *Fudan_Qianlong Liu* ] [[github_Py](https://github.com/LiuQL2/MedicalChatbot)]  :memo:
@@ -41,11 +67,13 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] **A User Simulator for Task-Completion Dialogues** [ *Microsoft Research_Xiujun Li* ]  [[github_Py](https://github.com/MiuLab/TC-Bot)] :memo: 
 - [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] **Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems** [ *Peking University_Yiping Song* ] 
 - [[Review2016](http://ebooks.iospress.nl/publication/44289)] **Hello Harlie: Enabling Speech Monitoring Through Chat-Bot Conversations** [ *Stud Health Technol Inform* ] [ *The Australian E-Health Research Centre_David IRELAND* ] 
-- [[ACL2019](https://arxiv.org/pdf/1901.08149.pdf)] **TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents** [ *HuggingFace_Thomas Wolf* ]  [[github_Py](https://github.com/huggingface/pytorch-openai-transformer-lm)] 
+
+
 
 
 ---
 ## Basic Algorithm
+
 
 
 
@@ -58,9 +86,6 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 
 ---
 ## Emotions & Personality
-- [[ACL2020](https://arxiv.org/pdf/2004.05388.pdf)] **You Impress Me: Dialogue Generation via Mutual Persona Perception** [ *Beihang_Microsofte_Fudan_Qian Liu* ]  [[github_Py](https://github.com/SivilTaram/Persona-Dialogue-Generation)] 
-- [[Arxiv2018](https://arxiv.org/pdf/2004.05388.pdf)] **Personalizing Dialogue Agents: I have a dog, do you have pets too?** [ *FacebookAI_Saizheng Zhang* ] 
-
 
 
 ---
@@ -99,3 +124,5 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 
 
 ---
+
+

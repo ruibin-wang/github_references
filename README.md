@@ -67,6 +67,8 @@ Breaking Down Barriers to Care with Virtual Human Interviewers** [ *Front. Robot
 - [[Arxiv2017](https://arxiv.org/pdf/1612.05688.pdf)] **A User Simulator for Task-Completion Dialogues** [ *Microsoft Research_Xiujun Li* ]  [[github_Py](https://github.com/MiuLab/TC-Bot)] :memo: 
 - [[Arxiv2016](https://arxiv.org/pdf/1610.07149.pdf)] **Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems** [ *Peking University_Yiping Song* ] 
 - [[Review2016](http://ebooks.iospress.nl/publication/44289)] **Hello Harlie: Enabling Speech Monitoring Through Chat-Bot Conversations** [ *Stud Health Technol Inform* ] [ *The Australian E-Health Research Centre_David IRELAND* ] 
+- [[Arxiv2020](https://arxiv.org/pdf/2004.13637.pdf)] **Recipes for building an open-domain chatbot** [ *Facebook AI Research_Stephen Roller* ]  [[github_Py](https://parl.ai/projects/recipes/)] :memo: [[note](https://medium.com/dair-ai/recipes-for-building-an-open-domain-chatbot-488e98f658a7)]
+
 
 
 
